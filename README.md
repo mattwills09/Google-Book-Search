@@ -1,4 +1,4 @@
-# Google Book Search
+# React Google Book Search Application
 ___
 
 This project is an entirely React based JavaScript application that allows the user to connect to the Google Books database, search and save favorite books to a MongoDB, and look up the details of almost every book ever published.
