@@ -1,9 +1,9 @@
-# Google Book Search React-Based Application
+# Google Book Search - React Based Application
 ___
 
-This book search application was created as an entirely React-based JavaScript application that allows the user to connect to the Google Books database, search, and save favorite books to a MongoDB, and also the ability to look up the details of almost every book that has ever been published.
+This google book search application was created to be an entirely React JS based JavaScript application, that will allow the user to connect to the 'Google Books' database, search for, and save selected books to a Mongo Database, and also has the ability to look up the details of almost every book that has ever been published.
 
-It was built using HTML, CSS, JavaScript, React JS framework, jQuery, Bootstrap, Express JS, MongoDB, Mongoose, Node JS, Axios for the API calls, DotEnv for security, and Heroku for the project hosting.
+It was built using HTML, CSS, JavaScript, React JS, jQuery, Bootstrap, Express JS, MongoDB, Mongoose, Node JS, Axios for the API calls, DotEnv for security, and Heroku for the project hosting.
 
 ## Getting Started
 
